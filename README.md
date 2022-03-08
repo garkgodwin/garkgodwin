@@ -2,7 +2,7 @@ Hi , I'm Gark Godwin
 🙋‍♂️ About Me
 I love web developing!
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garkgodwin)](https://github.com/garkgodwin/garkgodwin)
 
 
 📫 How to reach me garkgodwinduque@gmail.com
