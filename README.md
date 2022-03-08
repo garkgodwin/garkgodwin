@@ -11,6 +11,6 @@ I love web developing!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garkgodwin&hide=contribs,prs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garkgodwin&repo=github-readme-stats)](https://github.com/garkgodwin/garkgodwin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garkgodwin&repo=garkgodwin)](https://github.com/garkgodwin/garkgodwin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garkgodwin&layout=compact)](https://github.com/garkgodwin/garkgodwin)
