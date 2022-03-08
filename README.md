@@ -12,3 +12,7 @@ I love web developing!
 
 ### Project management system with MERN-stack! :face_with_thermometer:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garkgodwin&repo=mern-pms&theme=dracula)](https://github.com/garkgodwin/mern-pms)
+
+
+## My Activity!
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=garkgodwin&theme=rogue)](https://github.com/garkgodwin)
