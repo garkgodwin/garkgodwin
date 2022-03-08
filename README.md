@@ -2,15 +2,8 @@ Hi , I'm Gark Godwin
 🙋‍♂️ About Me
 I love web developing!
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garkgodwin)](https://github.com/garkgodwin/garkgodwin)
-
-
-📫 How to reach me garkgodwinduque@gmail.com
-
-⚡ Fun fact I Play Games,and Read Manga's.
-
+<div style="display:flex; flex-direction:row;">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garkgodwin&hide=contribs,prs)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garkgodwin&repo=garkgodwin)](https://github.com/garkgodwin/garkgodwin)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garkgodwin&layout=compact)](https://github.com/garkgodwin/garkgodwin)
+<div>
