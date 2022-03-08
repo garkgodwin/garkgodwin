@@ -18,4 +18,4 @@ I love web developing!
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=garkgodwin&theme=rogue)](https://github.com/garkgodwin)
 
 ## My top languages!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garkgodwin)](https://github.com/garkgodwin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garkgodwin&hide=scss,css,html)](https://github.com/garkgodwin)
