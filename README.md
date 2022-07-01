@@ -1,6 +1,5 @@
 # Hi , I'm Gark Godwin
-🙋‍♂️ About Me
-I love web developing!
+🙋‍♂️ I love web developing!
 
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garkgodwin&theme=dracula)
