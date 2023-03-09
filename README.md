@@ -8,4 +8,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garkgodwin&repo=react-todo-list&theme=dracula)](https://github.com/garkgodwin/react-todo-list)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garkgodwin&repo=mern-pms&theme=dracula)](https://github.com/garkgodwin/mern-pms)
 
 ### My node packages: 
-[![Readme Card](https://github.com/garkgodwin/react-starter-pack) [![Readme Card](https://github.com/garkgodwin/javascript-validations)
+[![Readme Card](https://github.com/garkgodwin/react-starter-pack)
+
+[![Readme Card](https://github.com/garkgodwin/javascript-validations)
